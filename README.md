@@ -10,35 +10,6 @@ My main area of interest is **SOC Analysis and Security Monitoring**, with a lon
 
 ---
 
-## 📊 Current Focus
-
-Currently developing my skills in:
-
-- SOC operations
-    
-- Alert triage
-    
-- SIEM
-    
-- Security event investigation
-    
-- Network Traffic Analysis
-    
-- Windows & Linux security monitoring
-    
-- Incident Response
-    
-- Security analytics
-    
-- SQL and Python for security analysis
-    
-- Detection and correlation logic
-    
-- ML fundamentals for security analytics
-    
-
----
-
 ## 🛠️ Skills
 
 ### 🛡️ Cybersecurity
@@ -60,8 +31,7 @@ Currently developing my skills in:
 
 #### 🔐 Security Fundamentals
 
-`CIA Triad` · `ANrA` · `Malware Classification`  
-`Security Fundamentals` · `Network Attack Analysis`
+`CIA Triad` · `ANrA` · `Malware Classification`
 
 ---
 
@@ -103,6 +73,27 @@ Currently developing my skills in:
 
 `Linux Monitoring` · `Windows Monitoring`  
 `Network Analysis` · `Log Analysis`
+
+---
+## 📂 Projects
+
+My cybersecurity portfolio is currently **under development**.
+
+At the moment, my repositories mainly contain **academic and educational projects**, including backend development, programming, and other technical coursework. These projects reflect my technical background and provide a foundation for my transition into cybersecurity.
+
+I am currently building my first cybersecurity-focused projects around:
+
+- SOC and SIEM investigations
+    
+- Network Traffic Analysis
+    
+- Security event analysis
+    
+- Web attack analysis
+    
+- Linux and security labs
+
+As I progress, I will add practical cybersecurity investigations, lab write-ups, and security-related projects to this profile.
 
 ---
 
