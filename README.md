@@ -48,9 +48,6 @@ My main area of interest is **SOC Analysis and Security Monitoring**, with a lon
 
 ---
 
-**Learn → Practice → Investigate → Document → Apply**
-
----
 
 ## 🔗 Links
 
