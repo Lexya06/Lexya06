@@ -1,12 +1,12 @@
 # Hi, I'm Yana 👋
 
-## 🛡️ Cybersecurity | Aspiring SOC Analyst
+## 🛡️ Cybersecurity | Pentester
 
 I am a software engineer with a technical background in **Java Backend Development** and a strong professional focus on **Cybersecurity**.
 
 For several years, I have been developing my skills in backend development, which has given me a solid technical foundation in programming, databases, APIs, and distributed applications. Today, I continue programming as a personal interest while actively building my professional path in cybersecurity.
 
-My main area of interest is **SOC Analysis and Security Monitoring**, with a long-term goal of developing towards an **L2 SOC Analyst** role.
+My main area of interest is penetration testing, with a focus on web-pentesting. I am a goal-oriented team player with a strong desire to grow in cybersecurity, continuously develop my practical skills, and build my professional path from Red Team towards Purple Team.
 
 ---
 
